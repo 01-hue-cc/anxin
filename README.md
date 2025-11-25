@@ -12,5 +12,4 @@
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
 
-# anxin
->>>>>>> ee2a8b7eed151f299d13170b43d4ff0412a793be
+# anee2a8b7eed151f299d13170b43d4ff0412a793be
